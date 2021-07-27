@@ -12,12 +12,15 @@
 - ⚡ Fun fact: I like to tinker, play games and watch manga
 
 ### Connect with me
-[<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='website' width='22px' />]
-(website)
+
+[<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' width='22px' alt='special-dev'>][website]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' width='22px' alt='twitter'>][twitter]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' width='22px' alt='linkedin'>][linkedin]
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg' width='22px' alt='instagram'>][instagram]
 
 ### Languages and Tools
 
-![JavaScript](javascript 'JS')
+[<img align="left" alt="Javascript" width="26px" src=javascript />][javascript]
 ![Python](python 'Python')
 ![React js](react 'React js')
 ![Sql](sql 'SQL')
