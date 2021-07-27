@@ -1,6 +1,6 @@
 # Hi there, I'm Fannan Luc Coulibaly - aka [@coulbyl][website] 👋
 
-[![Website](https://shields.io/website?label=special-dev.vercel.app&style=for-the-badge&url=https://special-dev.vercel.app/)](website)
+[![Website](https://shields.io/website?label=special-dev&style=for-the-badge&url=https://special-dev.vercel.app/)](website)
 [![Twitter Follow](https://img.shields.io/twitter/follow/fannanluc?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Ffannanluc&screen_name=fannanluc)
 
 ## I'm a Man, Friend, and Developer
@@ -13,24 +13,24 @@
 
 ### Connect with me
 
-[<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' width='22px' alt='special-dev'>][website]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' width='22px' alt='twitter'>][twitter]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' width='22px' alt='linkedin'>][linkedin]
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg' width='22px' alt='instagram'>][instagram]
+[<img align="left" src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' width='22px' alt='special-dev'>][website]
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg' width='22px' alt='twitter'>][twitter]
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg' width='22px' alt='linkedin'>][linkedin]
+[<img align="left" src='https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg' width='22px' alt='instagram'>][instagram]
 
 ### Languages and Tools
 
-<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][react]
-[<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][css]
-[<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][sass]
-[<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
-<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt='vscode' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>
+[<img align="left" alt="Javascript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][https://www.google.com/search?q=js]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][https://www.google.com/search?q=python]
+[<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][https://www.google.com/search?q=reactjs]
+[<img align="left" alt="sql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][https://www.google.com/search?q=sql]
+[<img align="left" alt="html" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][https://www.google.com/search?q=html]
+[<img align="left" alt="css" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][https://www.google.com/search?q=css]
+[<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][https://www.google.com/search?q=sass]
+[<img align="left" alt="mysql" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][https://www.google.com/search?q=mysql]
+[<img align="left" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][https://www.google.com/search?q=git]
+[<img align="left" alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][https://www.google.com/search?q=terminal]
+[<img align="left" alt='vscode' width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"/>][https://www.google.com/search?q=vscode]
 
 ### 📕 Latest Blog Posts
 
