@@ -12,11 +12,8 @@
 - ⚡ Fun fact: I like to tinker, play games and watch manga
 
 ### Connect with me
-
-[![alt](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg 'my website')](website)
-[![alt](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg 'alt')](twitter)
-[![alt](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg 'alt')](linkedin)
-[![alt](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg 'alt')](instagram)
+[<img src='https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg' alt='website' width='22px' />]
+(website)
 
 ### Languages and Tools
 
